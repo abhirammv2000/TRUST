@@ -7,13 +7,6 @@ Course: Data 602 - Principles of Data Science
 
 #### <span style="color:red;">NOTE</span>: _*Feature Engineered Final Dataset and our Logistic Regression Model in the first release*_
 
-# Project Title
-
-Check out the video demonstration below:
-
-[![YouTube](http://i.ytimg.com/vi/fBDyLng_aJw/hqdefault.jpg)](https://www.youtube.com/watch?v=fBDyLng_aJw)
-
-
 # Introduction
 
 In today's sophisticated financial environment, assessing a borrower’s ability to repay loans is crucial to risk management for lending institutions. As the credit market continues to grow, financial institutions face challenges in making well-informed decisions about loan approvals while efficiently managing the risk of defaults.
@@ -93,12 +86,6 @@ The final stage will involve deriving actionable insights from the model. These 
 Expected Outcomes
 
 We aim to develop a robust model with strong predictive power for loan defaults. By the end of the project, we will provide insights into key risk factors and offer financial institutions a tool to better assess applicant profiles, ultimately reducing uncertainty in loan approvals and minimizing financial risk.
-
-# Authors: 
-
-* [Arunbh Yashaswi](https://github.com/kautilyaa)
-* [Swattik Maiti](https://github.com/PerciValXIII)
-* [Ritik Singh](https://github.com/Ritik294)
 
 # Credit:
 
